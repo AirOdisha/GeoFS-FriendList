@@ -11,6 +11,7 @@
 
 (function () {
     'use strict';
+    console.log("GeoFS-Friend-List running now...)
 
     // ===== Helper Functions =====
     function getFriends() {
